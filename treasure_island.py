@@ -44,3 +44,4 @@ elif left_right == "left" :
         print("wrong choice")
 else:
     print("wrong choice.")
+print("cv")
